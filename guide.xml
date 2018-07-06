@@ -1,0 +1,1058 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="pt">Sony HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20180705001500 -0300" stop="20180705013500 -0300" channel="FX">
+    <title lang="pt">Padre</title>
+    <desc lang="pt">Um lendário sacerdote guerreiro da última guerra com os vampiros se vê obrigado a quebrar seus votos sagrados quando sua sobrinha é sequestrada por um grupo de vampiros assassinos(n)</desc>
+    <credits>
+      <director>Scott Charles Stewart</director>
+      <actor>Paul Bettany</actor>
+      <actor>Karl Urban</actor>
+      <actor>Cam Gigandet</actor>
+      <actor>Maggie Q</actor>
+      <actor>Lily Collins. Brad Dourif. Christopher Plummer</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705013500 -0300" stop="20180705020000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Francine consegue um trabalho no escritório de Stan, o que arruína o estilo de Stan e sua habilidade em paquerar suas colegas de trabalho. As coisas não tardarão a ficar complicadas e a guerra se instalará no trabalho(n)</desc>
+    <credits>
+      <director>Pam Cooke</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S7 E18</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705020000 -0300" stop="20180705023000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Peter e Joe se unem para executar uma série de pegadinhas dolorosas e humilhantes de Halloween em seus familiares, amigos e vizinhos(n)</desc>
+    <credits>
+      <director>Jerry Langford</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Adam West</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705023000 -0300" stop="20180705025500 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Os Belchers entram em clima natalino. Bob recebe uma ligação do Sr. Fischoeder pedindo que leve comida a uma festa em sua casa(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705025500 -0300" stop="20180705043000 -0300" channel="FX">
+    <title lang="pt">O Detonador</title>
+    <desc lang="pt">Sonni Griffith (Wesley Snipes) é um agente secreto da CIA que vai à Polônia para impedir que traficantes de armas fechem um grande negócio: a venda de uma arma nuclear(n)</desc>
+    <credits>
+      <director>Po-chih Leong</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Silvia Colloca</actor>
+      <actor>Matthew Leitch</actor>
+      <actor>Tim Dutton</actor>
+      <actor>William Hope</actor>
+      <actor>Bogdan Uritescu</actor>
+      <actor>Warren Derosa</actor>
+      <actor>Vincenzo Nicoli</actor>
+      <actor>Tania Popa</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180705043000 -0300" stop="20180705061000 -0300" channel="FX">
+    <title lang="pt">Godzilla 2000</title>
+    <desc lang="pt">Nesta versão original japonesa, Godzilla vai enfrentar Orga, criatura alienígena que estava dormindo há mais de 6 mil anos, na Terra(n)</desc>
+    <credits>
+      <director>Takao Okawara</director>
+      <actor>Takehiro Murata</actor>
+      <actor>Naomi Nishida</actor>
+      <actor>Mayu Suzuki</actor>
+      <actor>Takeshi Ôbavashi</actor>
+      <actor>Shirô Namki</actor>
+      <actor>Sakae Kimura</actor>
+      <actor>Bengal</actor>
+      <actor>Hiroshi Abe</actor>
+      <actor>KôiChi Ueda</actor>
+      <actor>Shelley Sweeney</actor>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180705061000 -0300" stop="20180705063000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando Peter leva Stewie ao parque para se divertirem juntos, ele leva por engano o bebê errado para casa, fazendo com que Lois o chame de idiota(n)</desc>
+    <credits>
+      <director>Joseph Lee</director>
+      <actor>Vozes de Seth Macfarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S13 E17</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705063000 -0300" stop="20180705070000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando Chris começa a namorar a filha de Jerome, Pam, Jerome proíbe o relacionamento. Mas quando Chris e Pam fogem juntos, Jerome e Peter devem agir juntos para encontrar seus filhos(n)</desc>
+    <credits>
+      <director>Brian Iles</director>
+      <actor>Vozes de Seth Macfarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S13 E18</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705070000 -0300" stop="20180705073000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180705073000 -0300" stop="20180705080000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180705080000 -0300" stop="20180705083000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180705083000 -0300" stop="20180705090000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180705090000 -0300" stop="20180705100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180705100000 -0300" stop="20180705114500 -0300" channel="FX">
+    <title lang="pt">A Entrega</title>
+    <desc lang="pt">Bob é atendente em um bar onde mafiosos e gângsteres se encontram regularmente. Enquanto ele tenta não se envolver com o mundo do crime, acaba se vendo em uma complicada trama que inclui um assalto mal sucedido e um assassinato(n)</desc>
+    <credits>
+      <director>Michaël R. Roskam</director>
+      <actor>James Gandolfini</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Noomi Rapace</actor>
+      <actor>Matthias Schoenaerts</actor>
+      <actor>John Ortiz</actor>
+      <actor>Elizabeth Rodriguez</actor>
+      <actor>Morgan Spector</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705114500 -0300" stop="20180705121000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Stan passa um momento pai-e-filho- com Steve no zoológico mas as coisas saem de controle quando Steve cai na jaula de um gorila(n)</desc>
+    <credits>
+      <director>Chris Bennett</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S7 E19</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705121000 -0300" stop="20180705124000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Stan confessa a Roger que sua terrível atuação está afetando sua performance, Roger convida Stan para assistir a sua aula de interpretação(n)</desc>
+    <credits>
+      <director>Bob Bowen</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Curtis Armstrong</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Mike Barker</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S7 E11</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705124000 -0300" stop="20180705131000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Um retorno à versão Griffin da galáxia distante e sua sátira de(n)</desc>
+    <credits>
+      <director>Peter Shin</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705131000 -0300" stop="20180705133500 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Quando Gene fica sabendo que a fórmula de seu chocolate preferido mudou, ele colabora com o cabeça da empresa para remediar a situação(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705133500 -0300" stop="20180705153500 -0300" channel="FX">
+    <title lang="pt">Livre</title>
+    <desc lang="pt">Após a morte de sua mãe, Cheryl nunca mais foi a mesma. Depois de passar por um divórcio e uma fase sombria em sua vida, ela decide fazer uma trilha de mais de mil milhas pela costa norte-americana do oceano Pacífico(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Laura Dern</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Gaby Hoffmann</actor>
+      <actor>Thomas Sadoski</actor>
+      <actor>Keene McRae</actor>
+      <actor>Brian Van Holt</actor>
+      <actor>Ray Buckley</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180705153500 -0300" stop="20180705172000 -0300" channel="FX">
+    <title lang="pt">Guerreiros Do Amanhã</title>
+    <desc lang="pt">Sete jovens saem da cidade para passar um fim de semana inesquecível e vão acampar no meio da natureza selvagem. A viagem acaba, está na hora de voltar. Só que sua cidade já não é a mesma, e suas famílias desapareceram(n)</desc>
+    <credits>
+      <director>Stuart Beattie</director>
+      <actor>Caitlin Stasey</actor>
+      <actor>Rachel Hurd-Wood</actor>
+      <actor>Lincoln Lewis</actor>
+      <actor>Deniz Akdeniz</actor>
+      <actor>Phoebe Tonkin</actor>
+      <actor>Chris Pang</actor>
+      <actor>Ashleigh Cummings</actor>
+      <actor>Andrew Ryan</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705172000 -0300" stop="20180705190500 -0300" channel="FX">
+    <title lang="pt">Anjos da Noite - A Evolução</title>
+    <desc lang="pt">Uma cruel guerra está em curso entre vampiros e lobisomens. Quando Selene, uma guerreira vampira, e Michael, o híbrido, desvendam os segredos de suas linhagens, Selene descobre que foi traída(n)</desc>
+    <credits>
+      <director>Len Wiseman</director>
+      <actor>Kate Beckinsale</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Tony Curran</actor>
+      <actor>Derek Jacobi</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Steven Mackintosh</actor>
+      <actor>Zita Görög</actor>
+      <actor>Shane Brolly</actor>
+      <actor>Michael Sheen</actor>
+      <actor>Sophia Myles</actor>
+      <actor>Richard Cetrone</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180705190500 -0300" stop="20180705203000 -0300" channel="FX">
+    <title lang="pt">Casa da Mãe Joana 2</title>
+    <desc lang="pt">Montanha se tornou um escritor de sucesso após lançar o livro(n)</desc>
+    <credits>
+      <director>Hugo Carvana</director>
+      <actor>Paulo Betti</actor>
+      <actor>José Wilker</actor>
+      <actor>Antonio Pedro</actor>
+      <actor>Lúcia Bronstein</actor>
+      <actor>Felipe Kannenberg</actor>
+      <actor>Xuxa Lopes</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705203000 -0300" stop="20180705223000 -0300" channel="FX">
+    <title lang="pt">S.W.A.T. - Comando Especial</title>
+    <desc lang="pt">Ex-agente do esquadrão de elite S.W.A.T. tem uma nova chance quando é chamado para integrar a equipe encarregada do traslado de um chefão do tráfico(n)</desc>
+    <credits>
+      <director>Clark Johnson</director>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Colin Farrell</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Olivier Martinez</actor>
+      <actor>LL Cool J</actor>
+      <actor>Josh Charles</actor>
+      <actor>Brian Van Holt</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Denis Ardnt</actor>
+      <actor>Lindsey Ginter</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180705223000 -0300" stop="20180706001500 -0300" channel="FX">
+    <title lang="pt">Os Reis da Rua</title>
+    <desc lang="pt">O experiente detetive Tom Ludlow passa por problemas com a corregedoria da polícia de Los Angeles. A situação piora quando se torna suspeito do assassinato de seu antigo parceiro, um possível delator(n)</desc>
+    <credits>
+      <director>David Ayer</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Chris Evans</actor>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Jay Mohr</actor>
+      <actor>Terry Crews</actor>
+      <actor>Jason Lewis</actor>
+      <actor>Evan Handler</actor>
+      <actor>Martha Higareda</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180705002500 -0300" stop="20180705015300 -0300" channel="FX HD">
+    <title lang="pt">Padre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705015300 -0300" stop="20180705021400 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705021400 -0300" stop="20180705023900 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705023900 -0300" stop="20180705030200 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705030200 -0300" stop="20180705043700 -0300" channel="FX HD">
+    <title lang="pt">O Detonador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705043700 -0300" stop="20180705061600 -0300" channel="FX HD">
+    <title lang="pt">Godzilla 2000</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705061600 -0300" stop="20180705063800 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando Peter leva Stewie ao parque para se divertirem juntos, ele leva por engano o bebê errado para casa, fazendo com que Lois o chame de idiota(n)</desc>
+    <credits>
+      <director>Joseph Lee</director>
+      <actor>Vozes de Seth Macfarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705063800 -0300" stop="20180705070000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando Chris começa a namorar a filha de Jerome, Pam, Jerome proíbe o relacionamento. Mas quando Chris e Pam fogem juntos, Jerome e Peter devem agir juntos para encontrar seus filhos(n)</desc>
+    <credits>
+      <director>Brian Iles</director>
+      <actor>Vozes de Seth Macfarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705070000 -0300" stop="20180705073000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705073000 -0300" stop="20180705080000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705080000 -0300" stop="20180705083000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705083000 -0300" stop="20180705090000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705090000 -0300" stop="20180705100000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705100000 -0300" stop="20180705115600 -0300" channel="FX HD">
+    <title lang="pt">A Entrega</title>
+    <desc lang="pt">Bob é atendente em um bar onde mafiosos e gângsteres se encontram regularmente. Enquanto ele tenta não se envolver com o mundo do crime, acaba se vendo em uma complicada trama que inclui um assalto mal sucedido e um assassinato(n)</desc>
+    <credits>
+      <director>Michaël R. Roskam</director>
+      <actor>James Gandolfini</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Noomi Rapace</actor>
+      <actor>Matthias Schoenaerts</actor>
+      <actor>John Ortiz</actor>
+      <actor>Elizabeth Rodriguez</actor>
+      <actor>Morgan Spector</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705115600 -0300" stop="20180705122100 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705122100 -0300" stop="20180705124600 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Stan confessa a Roger que sua terrível atuação está afetando sua performance, Roger convida Stan para assistir a sua aula de interpretação(n)</desc>
+    <credits>
+      <director>Bob Bowen</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Curtis Armstrong</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Mike Barker</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705124600 -0300" stop="20180705130600 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Um retorno à versão Griffin da galáxia distante e sua sátira de "Star Wars VI: O Retorno de Jedi"(n)</desc>
+    <credits>
+      <director>Peter Shin</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705130600 -0300" stop="20180705133100 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705133100 -0300" stop="20180705153500 -0300" channel="FX HD">
+    <title lang="pt">Livre</title>
+    <desc lang="pt">Após a morte de sua mãe, Cheryl nunca mais foi a mesma. Depois de passar por um divórcio e uma fase sombria em sua vida, ela decide fazer uma trilha de mais de mil milhas pela costa norte-americana do oceano Pacífico(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Laura Dern</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Gaby Hoffmann</actor>
+      <actor>Thomas Sadoski</actor>
+      <actor>Keene McRae</actor>
+      <actor>Brian Van Holt</actor>
+      <actor>Ray Buckley</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705153500 -0300" stop="20180705172700 -0300" channel="FX HD">
+    <title lang="pt">Guerreiros Do Amanhã</title>
+    <desc lang="pt">Sete jovens saem da cidade para passar um fim de semana inesquecível e vão acampar no meio da natureza selvagem. A viagem acaba, está na hora de voltar. Só que sua cidade já não é a mesma, e suas famílias desapareceram(n)</desc>
+    <credits>
+      <director>Stuart Beattie</director>
+      <actor>Caitlin Stasey</actor>
+      <actor>Rachel Hurd-Wood</actor>
+      <actor>Lincoln Lewis</actor>
+      <actor>Deniz Akdeniz</actor>
+      <actor>Phoebe Tonkin</actor>
+      <actor>Chris Pang</actor>
+      <actor>Ashleigh Cummings</actor>
+      <actor>Andrew Ryan</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705172700 -0300" stop="20180705190900 -0300" channel="FX HD">
+    <title lang="pt">Anjos da Noite</title>
+    <sub-title lang="pt">A Evolução</sub-title>
+    <desc lang="pt">Uma cruel guerra está em curso entre vampiros e lobisomens. Quando Selene, uma guerreira vampira, e Michael, o híbrido, desvendam os segredos de suas linhagens, Selene descobre que foi traída(n)</desc>
+    <credits>
+      <director>Len Wiseman</director>
+      <actor>Kate Beckinsale</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Tony Curran</actor>
+      <actor>Derek Jacobi</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Steven Mackintosh</actor>
+      <actor>Zita Görög</actor>
+      <actor>Shane Brolly</actor>
+      <actor>Michael Sheen</actor>
+      <actor>Sophia Myles</actor>
+      <actor>Richard Cetrone</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705190900 -0300" stop="20180705203600 -0300" channel="FX HD">
+    <title lang="pt">Casa da Mãe Joana 2</title>
+    <desc lang="pt">Montanha se tornou um escritor de sucesso após lançar o livro “Casa da Mãe Joana” e está levando uma vida tranquila. Mas isso muda quando ele se reencontra com os dois amigos Juca e PR(n)</desc>
+    <credits>
+      <director>Hugo Carvana</director>
+      <actor>Paulo Betti</actor>
+      <actor>José Wilker</actor>
+      <actor>Antonio Pedro</actor>
+      <actor>Lúcia Bronstein</actor>
+      <actor>Felipe Kannenberg</actor>
+      <actor>Xuxa Lopes</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705203600 -0300" stop="20180705223000 -0300" channel="FX HD">
+    <title lang="pt">S.W.A.T.</title>
+    <sub-title lang="pt">Comando Especial</sub-title>
+    <desc lang="pt">Ex-agente do esquadrão de elite S.W.A.T. tem uma nova chance quando é chamado para integrar a equipe encarregada do traslado de um chefão do tráfico(n)</desc>
+    <credits>
+      <director>Clark Johnson</director>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Colin Farrell</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Olivier Martinez</actor>
+      <actor>LL Cool J</actor>
+      <actor>Josh Charles</actor>
+      <actor>Brian Van Holt</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Denis Ardnt</actor>
+      <actor>Lindsey Ginter</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705223000 -0300" stop="20180706002200 -0300" channel="FX HD">
+    <title lang="pt">Os Reis da Rua</title>
+    <desc lang="pt">O experiente detetive Tom Ludlow passa por problemas com a corregedoria da polícia de Los Angeles. A situação piora quando se torna suspeito do assassinato de seu antigo parceiro, um possível delator(n)</desc>
+    <credits>
+      <director>David Ayer</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Chris Evans</actor>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Jay Mohr</actor>
+      <actor>Terry Crews</actor>
+      <actor>Jason Lewis</actor>
+      <actor>Evan Handler</actor>
+      <actor>Martha Higareda</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705010000 -0300" stop="20180705030000 -0300" channel="Sony HD">
+    <title lang="pt">Gente Grande</title>
+    <desc lang="pt">Trinta anos após a formatura do colégio, cinco amigos se reencontram para passar um fim de semana juntos. Com suas mulheres e filhos, eles comemoram o feriado de 4 de Julho em uma casa no lago, para celebrar os anos de juventude(n)</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Adam Sandler</actor>
+      <actor>Kevin James</actor>
+      <actor>Chris Rock</actor>
+      <actor>David Spade</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Maria Bello</actor>
+      <actor>Maya Rudolph</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705030000 -0300" stop="20180705033000 -0300" channel="Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705033000 -0300" stop="20180705040000 -0300" channel="Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705040000 -0300" stop="20180705050000 -0300" channel="Sony HD">
+    <title lang="pt">Teen Wolf</title>
+    <desc lang="pt">Com a graduação se aproximando, uma força sobrenatural percorre Beacon Hills e cruza o caminho de Scott e seus amigos(n)</desc>
+    <credits>
+      <director>Tim Andrew</director>
+      <actor>Tyler Posey</actor>
+      <actor>Dylan O'Brien</actor>
+      <actor>Holland Roden</actor>
+      <actor>Shelley Hennig</actor>
+      <actor>Seth Gilliam</actor>
+      <actor>Melissa Ponzio</actor>
+      <actor>Marisol Nichols</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705050000 -0300" stop="20180705060000 -0300" channel="Sony HD">
+    <title lang="pt">Teen Wolf</title>
+    <desc lang="pt">Enquanto Scott, Lydia e Malia procuram as memórias perdidas sobre um amigo perdido, Corey descobre uma conexão entre suas habilidades e a Caçada Selvagem(n)</desc>
+    <credits>
+      <director>James J.D. Taylor</director>
+      <actor>Tyler Posey</actor>
+      <actor>Dylan O'Brien</actor>
+      <actor>Holland Roden</actor>
+      <actor>Shelley Hennig</actor>
+      <actor>Seth Gilliam</actor>
+      <actor>Melissa Ponzio</actor>
+      <actor>Marisol Nichols</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705060000 -0300" stop="20180705063000 -0300" channel="Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705063000 -0300" stop="20180705070000 -0300" channel="Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705070000 -0300" stop="20180705073000 -0300" channel="Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Barney quer que Robin seja uma cidadã norte-americana, mas ela não consegue se livrar de sua origem canadense(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Pamela Dunlap</actor>
+      <actor>Brad Grunberg</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705073000 -0300" stop="20180705075500 -0300" channel="Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705075500 -0300" stop="20180705082000 -0300" channel="Sony HD">
+    <title lang="pt">Young &amp; Hungry</title>
+    <desc lang="pt">Josh não se lembra de Gabi depois de sofrer uma pancada na cabeça, mas ele parece se lembrar de todos os outros, então Gabi tenta recriar seu primeiro encontro na esperança de estimular sua memória(n)</desc>
+    <credits>
+      <director>Andy Cadiff</director>
+      <actor>Emily Osment</actor>
+      <actor>Jonathan Sadowski</actor>
+      <actor>Aimee Carrero</actor>
+      <actor>Kym Whitley</actor>
+      <actor>Rex Lee</actor>
+      <actor>Michael Voltaggio</actor>
+      <actor>Joe Thornton Jr.</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705082000 -0300" stop="20180705085000 -0300" channel="Sony HD">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Após um crime, Dre pensa em adquirir uma arma, mas Bow não está confortável com a ideia. Isso leva a um debate sobre a melhor forma de proteger a família(n)</desc>
+    <credits>
+      <director>Ken Whittingham</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Yara Shahidi</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705085000 -0300" stop="20180705104000 -0300" channel="Sony HD">
+    <title lang="pt">America's Got Talent</title>
+    <desc lang="pt">Um dos maiores sucessos da TV americana, idealizado pelo jurado do American Idol, Simon Cowell. O programa mostra um grupo de talentosos artistas com diversas habilidades em uma disputada competição(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Tyra Banks</actor>
+      <actor>Aj Billions</actor>
+      <actor>Melanie Brown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705104000 -0300" stop="20180705123000 -0300" channel="Sony HD">
+    <title lang="pt">America's Got Talent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705123000 -0300" stop="20180705142000 -0300" channel="Sony HD">
+    <title lang="pt">America's Got Talent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705142000 -0300" stop="20180705151500 -0300" channel="Sony HD">
+    <title lang="pt">Teen Wolf</title>
+    <desc lang="pt">Scott, Lydia e Malia fazem uma busca por Stiles. Enquanto isso, Liam e os outros organizam uma festa para manter um amigo a salvo dos Cavaleiros Fantasmas(n)</desc>
+    <credits>
+      <director>David Daniel</director>
+      <actor>Tyler Posey</actor>
+      <actor>Dylan O'Brien</actor>
+      <actor>Holland Roden</actor>
+      <actor>Shelley Hennig</actor>
+      <actor>Seth Gilliam</actor>
+      <actor>Melissa Ponzio</actor>
+      <actor>Marisol Nichols</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705151500 -0300" stop="20180705161000 -0300" channel="Sony HD">
+    <title lang="pt">Teen Wolf</title>
+    <desc lang="pt">Scott e Liam protegem a equipe de Lacrosse de um ataque; Lydia procura pistas sobre o desaparecimento de Stiles(n)</desc>
+    <credits>
+      <director>Tim Andrew</director>
+      <actor>Tyler Posey</actor>
+      <actor>Dylan O'Brien</actor>
+      <actor>Holland Roden</actor>
+      <actor>Shelley Hennig</actor>
+      <actor>Seth Gilliam</actor>
+      <actor>Melissa Ponzio</actor>
+      <actor>Marisol Nichols</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705161000 -0300" stop="20180705164000 -0300" channel="Sony HD">
+    <title lang="pt">Young &amp; Hungry</title>
+    <desc lang="pt">Josh não se lembra de Gabi depois de sofrer uma pancada na cabeça, mas ele parece se lembrar de todos os outros, então Gabi tenta recriar seu primeiro encontro na esperança de estimular sua memória(n)</desc>
+    <credits>
+      <director>Andy Cadiff</director>
+      <actor>Emily Osment</actor>
+      <actor>Jonathan Sadowski</actor>
+      <actor>Aimee Carrero</actor>
+      <actor>Kym Whitley</actor>
+      <actor>Rex Lee</actor>
+      <actor>Michael Voltaggio</actor>
+      <actor>Joe Thornton Jr.</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705164000 -0300" stop="20180705170500 -0300" channel="Sony HD">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Após um crime, Dre pensa em adquirir uma arma, mas Bow não está confortável com a ideia. Isso leva a um debate sobre a melhor forma de proteger a família(n)</desc>
+    <credits>
+      <director>Ken Whittingham</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Yara Shahidi</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705170500 -0300" stop="20180705173500 -0300" channel="Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Barney quer que Robin seja uma cidadã norte-americana, mas ela não consegue se livrar de sua origem canadense(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Pamela Dunlap</actor>
+      <actor>Brad Grunberg</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705173500 -0300" stop="20180705180000 -0300" channel="Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705180000 -0300" stop="20180705183000 -0300" channel="Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705183000 -0300" stop="20180705190000 -0300" channel="Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705190000 -0300" stop="20180705210000 -0300" channel="Sony HD">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705210000 -0300" stop="20180705230000 -0300" channel="Sony HD">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180705230000 -0300" stop="20180706010000 -0300" channel="Sony HD">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
